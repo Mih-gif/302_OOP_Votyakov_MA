@@ -3,7 +3,7 @@
         'name' => 'mih-gif/task03',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '3ca79e68a3b1a4d0c71fefded529bfa86437e4b5',
+        'reference' => 'de806020367b23320481b63e469bfcf1b42099cf',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'mih-gif/task03' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '3ca79e68a3b1a4d0c71fefded529bfa86437e4b5',
+            'reference' => 'de806020367b23320481b63e469bfcf1b42099cf',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
