@@ -4,7 +4,7 @@ namespace App;
 
 class ProductCollection
 {
-    private $products;
+    private $products = array();
 
     public function __construct(array $products)
     {
